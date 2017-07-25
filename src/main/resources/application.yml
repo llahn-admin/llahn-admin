@@ -42,4 +42,4 @@ spring:
 
 logging:
   level: debug
-  file: logs/guns.log
+  file: logs/llahn-admin.log
